@@ -10,7 +10,7 @@ main() is present inside MovieBookingSystem.cpp
 6. After choosing the theatre, see the avilable seats and booked seats.
 7. Choose the tickets to be booked.
        For single seat booking enter one seat number (without quotes): "A1"  
-       Multiple: "A1,A17,A20" 
+       Multiple: "A1,A17,A20"
        Range based: "A3-A13"
 8. Note Success or failure message displayed on the screen.
 9. Unit testing test cases are also provided. Please uncomment the two lines in MovieBookingSystem.cpp for running the test cases.
