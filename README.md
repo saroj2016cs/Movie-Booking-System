@@ -1,17 +1,16 @@
 # Movie-Booking-System
-Application that allows movie tickets to be booked.
-main() is present inside MovieBookingSystem.cpp
 
-1. I have build the Movie Ticket booking system.
-2. The Movies and their respective theatre name needs to inserted to the Movie List.
-3. The BackEnd() method provides a framework to enter details of each Movie.
-4. The FrontEnd() gives an interactive Command line interface for choosing the movies.
-5. After choosing the movie, choose the theatre where you would like to book a tickets.
-6. After choosing the theatre, see the avilable seats and booked seats.
-7. Choose the tickets to be booked.
-       For single seat booking enter one seat number (without quotes): "A1"  
-       Multiple: "A1,A17,A20"
-       Range based: "A3-A13"
-8. Note Success or failure message displayed on the screen.
-9. Unit testing test cases are also provided. Please uncomment the two lines in MovieBookingSystem.cpp for running the test cases.
-10. Note: Several improvements are also possible. With the given time constraint, I have done my best for the solution.
+This application allows users to book movie tickets. The main() function is present inside MovieBookingSystem.cpp.
+
+I have built a movie ticket booking system with the following features:
+
+1. Add movies and their respective theater names to the movie list.
+2. The BackEnd() method provides a framework for entering details of each movie.
+3. The FrontEnd() method offers an interactive command-line interface for choosing movies.
+4. After selecting a movie, choose the theater where you would like to book tickets.
+5. View available seats and booked seats in the chosen theater.
+6. Select the tickets to be booked. For single seat booking, enter one seat number without quotes (e.g., "A1"). For multiple seats, use a comma-separated list (e.g., "A1,A17,A20") or a range (e.g., "A3-A13").
+7. A success or failure message will be displayed on the screen.
+8. Unit testing test cases are also provided. To run the test cases, uncomment the two lines in MovieBookingSystem.cpp.
+
+Please note that several improvements are possible. Given the time constraint, I have done my best to provide a solution.
